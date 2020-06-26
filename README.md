@@ -1,2 +1,2 @@
-# if-else-statment
-dasar if else statment pada Python
+# Basic Python
+dasar belajar bahasa pemograman Python
